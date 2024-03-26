@@ -1,0 +1,7 @@
+C:\Users\vchup\source\repos\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\vchup\source\repos\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\vchup\source\repos\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\vchup\source\repos\Heap\Heap\obj\Debug\Heap.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\vchup\source\repos\Heap\Heap\obj\Debug\Heap.pdb
