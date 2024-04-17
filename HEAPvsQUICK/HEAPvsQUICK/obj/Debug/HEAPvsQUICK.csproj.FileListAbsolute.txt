@@ -1,0 +1,7 @@
+C:\Users\vchup\source\repos\HEAPvsQUICK\HEAPvsQUICK\bin\Debug\HEAPvsQUICK.exe.config
+C:\Users\vchup\source\repos\HEAPvsQUICK\HEAPvsQUICK\bin\Debug\HEAPvsQUICK.exe
+C:\Users\vchup\source\repos\HEAPvsQUICK\HEAPvsQUICK\bin\Debug\HEAPvsQUICK.pdb
+C:\Users\vchup\source\repos\HEAPvsQUICK\HEAPvsQUICK\obj\Debug\HEAPvsQUICK.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\HEAPvsQUICK\HEAPvsQUICK\obj\Debug\HEAPvsQUICK.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\HEAPvsQUICK\HEAPvsQUICK\obj\Debug\HEAPvsQUICK.exe
+C:\Users\vchup\source\repos\HEAPvsQUICK\HEAPvsQUICK\obj\Debug\HEAPvsQUICK.pdb
